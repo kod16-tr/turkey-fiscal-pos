@@ -1,0 +1,15 @@
+# Promo/video material stays out of the repository
+Reels-*
+*.srt
+*.mp4
+*.mov
+*.webm
+_uretim/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.zip
